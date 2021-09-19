@@ -1,4 +1,4 @@
-from selenium import webdriver
+selenium import webdriver
 import time
 
 try:
